@@ -27,6 +27,7 @@ This is a public record of self-directed learning that uses only official, publi
 - Do not use pull requests. Commit directly to the default branch, `main`.
 - Make each change a focused commit. Do not rewrite personal notes without explicit instruction.
 - Always push after committing. Never leave the local repo dirty: no uncommitted changes, untracked files, or unpushed commits at the end of a task.
+- Clean up leftovers without asking: delete stray or session-created branches (local and remote), temporary files, and any other clutter once they are no longer needed.
 
 ## Repository conventions
 
