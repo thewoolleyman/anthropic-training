@@ -53,5 +53,7 @@ Status values: `Not started` · `In progress` · `Completed`. Dates use YYYY-MM-
 | Course | Status | Started | Completed | Badge earned | Notes |
 |---|---|---|---|---|---|
 | Building with the Claude API | Not started | | | | |
+| Tool use with the Messages API | Not started | | | | |
+| Introduction to evals | Not started | | | | |
 | Claude with Amazon Bedrock | Not started | | | | |
 | Claude on Google Cloud | Not started | | | | |

@@ -1,7 +1,7 @@
 # Official Claude Academy catalog
 
 - **Source:** <https://academy.claude.com/courses>
-- **Accessed:** 2026-10-24
+- **Accessed:** 2026-11-09
 
 Sections and titles are copied as Anthropic lists them. The order reflects Anthropic's catalog layout, **not** a mandated learning sequence. "Badge" means the course card lists a completion badge, and a completion badge is not a professional certification (see [credentials.md](credentials.md)).
 
@@ -56,6 +56,8 @@ These cards list no duration and no completion badge.
 | Course | Listed duration | Lessons / quizzes | Completion badge listed |
 |---|---:|---|:---:|
 | [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) | 9 hr | 67 lessons · 8 quizzes | Yes |
+| [Tool use with the Messages API](https://academy.claude.com/courses/tool-use-with-the-messages-api) | 1.5 hr | 9 lessons · 1 quiz | Yes |
+| [Introduction to evals](https://academy.claude.com/courses/introduction-to-evals) | 1 hr | 4 lessons · 1 quiz | Yes |
 | [Claude with Amazon Bedrock](https://academy.claude.com/courses/claude-with-amazon-bedrock) | 8 hr | 65 lessons · 8 quizzes | Yes |
 | [Claude on Google Cloud](https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai) | 8.5 hr | 66 lessons · 9 quizzes | Yes |
 
@@ -64,3 +66,4 @@ These cards list no duration and no completion badge.
 | Date | Change | Source |
 |---|---|---|
 | 2026-10-24 | Initial snapshot | <https://academy.claude.com/courses> |
+| 2026-11-09 | Added course links; added "Tool use with the Messages API" and "Introduction to evals" to Build with the API | <https://academy.claude.com/courses> |
